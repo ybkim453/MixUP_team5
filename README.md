@@ -66,15 +66,8 @@ python run_experiment.py --input sample_input.txt --output result.json
 ├── utils/              # 유틸리티 함수들
 │   ├── __init__.py     # utils 패키지 초기화
 │   ├── experiment.py   # 실험 실행 및 API 호출
-│   ├── metrics.py      # 평가 지표 계산
-│   └── retriever.py
-├── prompts/            # 프롬프트 템플릿 저장
-│   ├── __init__.py     # prompts 패키지 초기화
-│   └── templates.py    # 프롬프트 템플릿 정의
-├── scripts/
-│   └── build_index.py
-└── rag_index/
-    ├── cor_sent.npy
-    ├── err_sent.npy
-    └── err.index
+│   └── metrics.py      # 평가 지표 계산
+└── prompts/            # 프롬프트 템플릿 저장
+    ├── __init__.py     # prompts 패키지 초기화
+    └── templates.py    # 프롬프트 템플릿 정의
 ```
