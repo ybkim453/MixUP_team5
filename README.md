@@ -19,7 +19,7 @@
 ### 1. 사전 준비 
 
 ```bash
-git clone https://github.com/your-org/your-repo.git
+git clone https://github.com/ybkim453/MixUP_team5.git
 cd your-repo/experiment
 ```
 
@@ -35,14 +35,14 @@ pip install -r requirements.txt
 python run_experiment.py --input sample_input.txt --output result.json
 ```
 
-> �� 실행 옵션 (예시):
+>  실행 옵션 (예시):
 > `--input`: 실험 대상 파일
 > `--output`: 결과 저장 파일 경로
 
 ---
 
 
-## �� 실험의 한계 및 향후 개선
+##  실험의 한계 및 향후 개선
 
 * **한계**:
 
