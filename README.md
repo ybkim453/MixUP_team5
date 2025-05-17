@@ -1,9 +1,9 @@
-# �� MixUp_팀명 : Grammar Error Correction Promptathon 
+# MixUp_MZ : Grammar Error Correction Promptathon 
 
 본 레포지토리는 Grammar Error Correction Promptathon  실험을 재현하고 확장하기 위한 코드 및 가이드를 제공합니다.
 
 
-## �� 프로젝트 개요
+## 프로젝트 개요
 
 * **목표**: ex. Solar Pro API를 활용하여 프롬프트 만으로 한국어 맞춤법 교정 성능을 개선한다. 
 * **접근 전략**:
@@ -55,7 +55,7 @@ python run_experiment.py --input sample_input.txt --output result.json
 
 ---
 
-## �� 폴더 구조
+## 폴더 구조
 
 ```
 📁 code/
